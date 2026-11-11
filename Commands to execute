@@ -1,0 +1,7 @@
+COMMANDS TO BE EXECUTED
+1. cd ".\sign-language-platform"
+2. npm install
+3. Get-ChildItem
+4.  node --check server.js
+5. npm start
+6. node server.js
